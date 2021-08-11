@@ -3,7 +3,9 @@
 This branch looks at models for wildfire prediction in the United States with the following algorithms:
 - CART
 - C5.0
+
 and will be evaluated by the evaluation metrics of: 
+
 - Accuracy
 - Sensitivity
 - Specificity 
