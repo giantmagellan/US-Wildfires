@@ -1,6 +1,6 @@
-### Bryan's Branch
+### Phase 2: Cleaning, exploratory analysis and modelling (Date: 8/31/21)
 
-This branch looks at models for wildfire prediction in the United States with the following algorithms:
+### Phase 1: This branch looks at models for wildfire prediction in the United States with the following algorithms (Date: 8/16/21) 
 - CART
 - C5.0
 
