@@ -1,4 +1,4 @@
-# US Wildfires prediction
+# US Wildfires Prediction
 
 ### Phase 1: Model comparisons within the fire weather criteria. (Date: 8/16/21)
 - CART
